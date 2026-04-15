@@ -10,7 +10,7 @@ __pycache__
 .DS_Store
 .vscode
 /cache
-/config.json
+#/config.json
 /config_states/
 /embeddings
 /extensions
@@ -19,11 +19,11 @@ __pycache__
 /outputs
 /params.txt
 /repositories
-/styles.csv
+#/styles.csv
 /styles.csv.bak
 /sysinfo*.json
 /tmp
-/ui-config.json
+#/ui-config.json
 /user.css
 /venv
 /webui-user.bat
